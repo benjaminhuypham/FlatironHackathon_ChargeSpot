@@ -1,0 +1,3 @@
+class Chargingstation < ApplicationRecord
+end
+
